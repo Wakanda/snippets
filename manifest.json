@@ -53,39 +53,21 @@
 						"title": "<div>",
 						"targets":	[
 							{ "uti": "public.html" }
-						],
-						"shortcut": {
-							"shortcutKey" : "yes",
-							"alternateKey" : "no",
-							"shiftKey" : "yes",
-							"key" : "v"
-						}
+						]
 					},
 					{
 						"name": "html_ol",
 						"title": "<ol>",
 						"targets":	[
 							{ "uti": "public.html" }
-						],
-						"shortcut": {
-							"shortcutKey" : "yes",
-							"alternateKey" : "no",
-							"shiftKey" : "yes",
-							"key" : "o"
-						}
+						]
 					},
 					{
 						"name": "html_ul",
 						"title": "<ul>",
 						"targets":	[
 							{ "uti": "public.html" }
-						],
-						"shortcut": {
-							"shortcutKey" : "yes",
-							"alternateKey" : "no",
-							"shiftKey" : "yes",
-							"key" : "u"
-						}
+						]
 					},
 					{
 						"name": "html_br",
@@ -99,52 +81,28 @@
 						"title": "<P>",
 						"targets":	[
 							{ "uti": "public.html" }
-						],
-						"shortcut": {
-							"shortcutKey" : "yes",
-							"alternateKey" : "no",
-							"shiftKey" : "yes",
-							"key" : "p"
-						}
+						]
 					},
 					{
 						"name": "html_comment",
 						"title": "<!-- -->",
 						"targets":	[
 							{ "uti": "public.html" }
-						],
-						"shortcut": {
-							"shortcutKey" : "yes",
-							"alternateKey" : "no",
-							"shiftKey" : "yes",
-							"key" : "!"
-						}
+						]
 					},
 					{
 						"name": "js_if",
 						"title": "if-else",
 						"targets":	[
 							{ "uti": "com.netscape.javascript-source" }
-						],
-						"shortcut": {
-							"shortcutKey" : "yes",
-							"alternateKey" : "no",
-							"shiftKey" : "yes",
-							"key" : "i"
-						}
+						]
 					},
 					{
 						"name": "js_for",
 						"title": "for loop",
 						"targets":	[
 							{ "uti": "com.netscape.javascript-source" }
-						],
-						"shortcut": {
-							"shortcutKey" : "yes",
-							"alternateKey" : "no",
-							"shiftKey" : "yes",
-							"key" : "r"
-						}
+						]
 					},
 					{
 						"name": "js_func",
@@ -165,26 +123,14 @@
 						"title": "try-catch",
 						"targets":	[
 							{ "uti": "com.netscape.javascript-source" }
-						],
-						"shortcut": {
-							"shortcutKey" : "yes",
-							"alternateKey" : "no",
-							"shiftKey" : "yes",
-							"key" : "t"
-						}
+						]
 					},
 					{
 						"name": "js_comment",
 						"title": "comment",
 						"targets":	[
 							{ "uti": "com.netscape.javascript-source" }
-						],
-						"shortcut": {
-							"shortcutKey" : "yes",
-							"alternateKey" : "no",
-							"shiftKey" : "yes",
-							"key" : "*"
-						}
+						]
 					}
 		],
 		
